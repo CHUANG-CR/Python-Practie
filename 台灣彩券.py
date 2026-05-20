@@ -24,3 +24,14 @@ for i in range(6, len(balls)):
 # 特別號：資料位於 <div class="ball_red"></div>
 redball = dataTag[2].find_all('div', {'class': 'ball_red'})
 print("\n特別號   :", redball[0].text)
+
+'''
+OUTPUT
+
+大樂透開獎 :
+-------------
+開出順序 : 44    25    18    14    16    23    
+大小順序 : 14    16    18    23    25    44    
+特別號   : 41 
+
+'''
