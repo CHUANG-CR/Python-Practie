@@ -1,4 +1,4 @@
-# Python-practie
+# Python-Practie
 
 ---
 ## 1. [新北市公共自行車即時資訊](新北市公共自行車即時資訊.py)
